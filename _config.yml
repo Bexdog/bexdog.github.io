@@ -1,3 +1,5 @@
-# this is just text
-theme: jekyll-theme-cayman
 title: Beckham Kunkler
+description: Beckham is a senior at San Dieguito Academy
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
